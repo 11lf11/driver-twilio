@@ -1,5 +1,5 @@
 {
-    "name": "botman/driver-twilio",
+    "name": "11lf11/driver-twilio",
     "license": "MIT",
     "description": "Twilio driver for BotMan",
     "keywords": [
@@ -16,11 +16,11 @@
     ],
     "require": {
         "php": ">=7.0",
-        "botman/botman": "~2.0",
+        "11lf11/botman": "~2.0",
         "twilio/sdk": "^5.15"
     },
     "require-dev": {
-        "botman/studio-addons": "~1.0",
+        "11lf11/studio-addons": "~1.0",
         "illuminate/contracts": "~5.5.0",
         "phpunit/phpunit": "~5.0",
         "mockery/mockery": "dev-master",
